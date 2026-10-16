@@ -9,9 +9,9 @@ A working prototype of a hybrid decentralized system for sharing business files.
 ## Features
 
 - Registration and login with an automatically generated custodial wallet
-- File upload: 4 KB chunking, Merkle tree, IPFS storage, on-chain registration (CID and Merkle root)
+- File upload: chunking, Merkle tree, IPFS storage, on-chain registration (CID and Merkle root)
 - Download with integrity verification of 10 random chunks against the on-chain root
-- Granting and revoking access by user or group
+- Granting and revoking access by user
 - Activity log of uploads, shares, downloads and revocations
 - Admin panel: user deactivation, password reset, gas usage per user
 - Gas tracking for every on-chain transaction
