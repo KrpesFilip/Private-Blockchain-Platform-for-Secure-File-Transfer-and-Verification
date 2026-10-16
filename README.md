@@ -4,7 +4,7 @@
 
 A working prototype of a hybrid decentralized system for sharing business files. Files are stored on IPFS, ownership and access rights are kept in a Solidity smart contract, and a Merkle root anchored on-chain verifies file integrity.
 
-> Master's thesis, Josip Juraj Strossmayer University of Osijek, 2026. Author: Filip Krpeš.
+> Master's thesis, Josip Juraj Strossmayer University of Osijek, 2026. Author: Filip Krpes.
 
 ## Features
 
